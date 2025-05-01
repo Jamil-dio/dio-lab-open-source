@@ -8,13 +8,16 @@
 
 ### 📊 Estatísticas no GitHub
 
-![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=falvojr&show_icons=true&theme=dracula)
+![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?jamil-dio
+
+
+=falvojr&show_icons=true&theme=dracula)
 
 ### 📌 Projetos em Destaque
 
-[![Speech2Learning](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=speech2learning)](https://github.com/falvojr/speech2learning)
+[![Speech2Learning](https://github-readme-stats.vercel.app/api/pin/?jamil-dio=falvojr&repo=speech2learning)](https://github.com/falvojr/speech2learning)
 
-[![Santander Dev Week 2023](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=santander-dev-week-2023)](https://github.com/falvojr/santander-dev-week-2023)
+[![Santander Dev Week 2023](https://github-readme-stats.vercel.app/api/pin/?jamil-dio=falvojr&repo=santander-dev-week-2023)](https://github.com/falvojr/santander-dev-week-2023)
 ### 🚀 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falvojr&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jamil-dio=falvojr&layout=compact)
